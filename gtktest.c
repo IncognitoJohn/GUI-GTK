@@ -9,7 +9,8 @@ void end_prog(GtkWidget *wid,gpointer ptr) {
     gtk_main_quit();
  }
 
- int main (int argc, char *argv[])
+
+int main (int argc, char *argv[])
  {
      gtk_init (&argc, &argv);
      GtkWidget *win = gtk_window_new (GTK_WINDOW_TOPLEVEL);
