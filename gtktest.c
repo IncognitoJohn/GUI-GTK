@@ -8,6 +8,8 @@ void end_prog(GtkWidget *wid,gpointer ptr) {
 
     gtk_main_quit();
  }
+
+
  int main (int argc, char *argv[])
  {
      gtk_init (&argc, &argv);
