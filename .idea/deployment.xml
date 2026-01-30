@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" uploadOnCheckin="52749f49-6a32-43d1-86b2-65e450fe9a77" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Remote Host (52749f49-6a32-43d1-86b2-65e450fe9a77)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/untitled6" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="Remote Host (52749f49-6a32-43d1-86b2-65e450fe9a77)" />
+  </component>
+</project>
