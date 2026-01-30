@@ -30,7 +30,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58611b79-d938-4083-bfb2-8199485f36db" name="Changes" comment="i am trying to push to the master code coz  Imade things complicated here by messing things around">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gtktest.c" beforeDir="false" afterPath="$PROJECT_DIR$/gtktest.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gtktest1.c" beforeDir="false" afterPath="$PROJECT_DIR$/gtktest1.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
