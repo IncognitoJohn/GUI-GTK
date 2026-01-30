@@ -42,4 +42,7 @@ int main (int argc, char *argv[])
      // gtk_widget_show (wind);
      gtk_main ();
  }
-// john this is a warning that THIS WILL HIT A MERGE CONFLICT
+
+
+// THIS WILL HIT A MERGE CONFLICT
+ CONFLICT
