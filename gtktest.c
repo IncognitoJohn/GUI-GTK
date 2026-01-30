@@ -42,4 +42,4 @@ int main (int argc, char *argv[])
      // gtk_widget_show (wind);
      gtk_main ();
  }
-#this will hit a merge conflict
+// will hit a  conflict
