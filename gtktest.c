@@ -42,4 +42,5 @@ int main (int argc, char *argv[])
      // gtk_widget_show (wind);
      gtk_main ();
  }
-#testing how this works now hope it works.
+#testing how this works now hope it works
+# i really hope this works ooo
