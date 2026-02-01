@@ -25,7 +25,7 @@ int main (int argc, char *argv[])
 
      GtkWidget *btn= gtk_button_new_with_label("CLOSE window");
 
-    GtkWidget *lbl= gtk_label_new("my new labelling");
+    GtkWidget *lbl= gtk_label_new("my  labelling");
 
      g_signal_connect(btn,"clicked",G_CALLBACK(end_prog),NULL);
      g_signal_connect(win,"destroy",G_CALLBACK(end_prog),NULL);
@@ -45,4 +45,4 @@ int main (int argc, char *argv[])
 
 
 // THIS WILL HIT A MERGE CONFLICT
- CONFLICT
+
