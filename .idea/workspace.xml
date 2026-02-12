@@ -21,6 +21,8 @@
     <generated>
       <config projectName="untitled6" targetName="database" />
       <config projectName="untitled6" targetName="database1" />
+      <config projectName="untitled6" targetName="tes" />
+      <config projectName="untitled6" targetName="test" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -29,7 +31,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58611b79-d938-4083-bfb2-8199485f36db" name="Changes" comment="i am trying to push to the master code coz  Imade things complicated here by messing things around" />
+    <list default="true" id="58611b79-d938-4083-bfb2-8199485f36db" name="Changes" comment="i am trying to push to the master code coz  Imade things complicated here by messing things around">
+      <change afterPath="$PROJECT_DIR$/assignment2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letters.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +133,7 @@
     "RunOnceActivity.west.config.association.type.startup.service": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "gtk__learn",
+    "git-widget-placeholder": "Merging main",
     "last_opened_file_path": "C:/Users/richa/CLionProjects/untitled6",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -164,9 +171,21 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tes" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled6" TARGET_NAME="tes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled6" RUN_TARGET_NAME="tes">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled6" TARGET_NAME="test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled6" RUN_TARGET_NAME="test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="CMake Application.c programming revisin" />
       <item itemvalue="CMake Application.database1" />
+      <item itemvalue="CMake Application.tes" />
+      <item itemvalue="CMake Application.test" />
       <item itemvalue="CMake Application.database" />
     </list>
   </component>
