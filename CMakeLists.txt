@@ -28,4 +28,6 @@ target_compile_options(tes PRIVATE ${GTK2_CFLAGS_OTHER})
 add_executable(test TEST.cpp
         TEST.cpp)
 
-add_executable(letter letters.cpp)
+add_executable(letter letters.cpp
+        )
+add_executable(letters assignment2.cpp)
